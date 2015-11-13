@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="welcome-PC" name="test.com.loa.tw.TWTest" skipped="0" tests="7" time="0.166" timestamp="2015-11-13T08:20:35">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="lib.dir" value="D:\LOA\luna1-j2ee\MerchantGuide\lib" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="eclipse.pdebuild.templates" value="/D:/LOA/eclipse-jee-luna-SR2-win32/eclipse/plugins/org.eclipse.pde.build_3.9.0.v20140415-2029/templates/" />
+    <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+    <property name="os.name" value="Windows 7" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jre1.8.0_45\lib\resources.jar;C:\Program Files\Java\jre1.8.0_45\lib\rt.jar;C:\Program Files\Java\jre1.8.0_45\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_45\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_45\lib\jce.jar;C:\Program Files\Java\jre1.8.0_45\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_45\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_45\classes" />
+    <property name="TODAY" value="November 13 2015" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.apache.ant_1.9.2.v201404171502" />
+    <property name="java.runtime.version" value="1.8.0_45-b15" />
+    <property name="user.name" value="welcome" />
+    <property name="test_results.dir" value="test_results" />
+    <property name="build.dir" value="D:\LOA\luna1-j2ee\MerchantGuide\bin" />
+    <property name="user.language" value="en" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_45\bin" />
+    <property name="ant.project.default-target" value="main" />
+    <property name="ant.project.name" value="AntJavaProject" />
+    <property name="DSTAMP" value="20151113" />
+    <property name="java.version" value="1.8.0_45" />
+    <property name="user.timezone" value="Asia/Calcutta" />
+    <property name="sun.arch.data.model" value="32" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre1.8.0_45\lib\endorsed" />
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="ant.file.AntJavaProject" value="D:\LOA\luna1-j2ee\MerchantGuide\build.xml" />
+    <property name="projectName" value="TW" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="52.0" />
+    <property name="ant.file.type.AntJavaProject" value="file" />
+    <property name="user.country" value="IN" />
+    <property name="java.home" value="C:\Program Files\Java\jre1.8.0_45" />
+    <property name="dist.dir" value="D:\LOA\luna1-j2ee\MerchantGuide\dist" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="ant.file" value="D:\LOA\luna1-j2ee\MerchantGuide\build.xml" />
+    <property name="os.version" value="6.1" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="25.45-b02" />
+    <property name="user.variant" value="" />
+    <property name="ant.library.dir" value="D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="user.script" value="" />
+    <property name="eclipse.pdebuild.scripts" value="/D:/LOA/eclipse-jee-luna-SR2-win32/eclipse/plugins/org.eclipse.pde.build_3.9.0.v20140415-2029/scripts/" />
+    <property name="user.home" value="C:\Users\welcome" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.library.path" value="D:\LOA\eclipse-jee-luna-SR2-win32\eclipse;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_45/bin/client;C:/Program Files/Java/jre1.8.0_45/bin;C:/Program Files/Java/jre1.8.0_45/lib/i386;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Program Files\Java\jre7\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Python34;D:\LOA\play-1.2.4;C:\Program Files\Windows Live\Shared;C:\Program Files\Microsoft Windows Performance Toolkit\;C:\Program Files\Skype\Phone\;C:\Program Files\Common Files\Ahead\Lib\;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse;;.;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\configuration\org.eclipse.osgi\676\0\.cp" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="sun.java.command" value="org.eclipse.ant.internal.launching.remote.InternalAntRunner -Dorg.eclipse.ant.core.ANT_PROCESS_ID=1447402830729 -Declipse.connect.port=60523 -Declipse.pdebuild.home=/D:/LOA/eclipse-jee-luna-SR2-win32/eclipse/plugins/org.eclipse.pde.build_3.9.0.v20140415-2029/./ -Declipse.pdebuild.scripts=/D:/LOA/eclipse-jee-luna-SR2-win32/eclipse/plugins/org.eclipse.pde.build_3.9.0.v20140415-2029/scripts/ -Declipse.pdebuild.templates=/D:/LOA/eclipse-jee-luna-SR2-win32/eclipse/plugins/org.eclipse.pde.build_3.9.0.v20140415-2029/templates/ -Dant.home=D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.apache.ant_1.9.2.v201404171502 -logger org.eclipse.ant.internal.launching.remote.logger.RemoteAntBuildLogger -inputhandler org.eclipse.ant.internal.ui.antsupport.inputhandler.ProxyInputHandler -buildfile D:\LOA\luna1-j2ee\MerchantGuide\build.xml" />
+    <property name="java.class.path" value="D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-antlr.jar;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-apache-bcel.jar;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-apache-bsf.jar;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-apache-log4j.jar;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-apache-oro.jar;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-apache-regexp.jar;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-apache-resolver.jar;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-apache-xalan2.jar;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-commons-logging.jar;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-commons-net.jar;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-jai.jar;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-javamail.jar;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-jdepend.jar;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-jmf.jar;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-jsch.jar;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-junit.jar;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-junit4.jar;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-launcher.jar;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-netrexx.jar;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-swing.jar;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-testutil.jar;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant.jar;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\configuration\org.eclipse.osgi\64\0\.cp\lib\antdebug.jar;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\configuration\org.eclipse.osgi\64\0\.cp\lib\remote.jar;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\configuration\org.eclipse.osgi\65\0\.cp\lib\remoteAnt.jar;C:\Program Files\Java\jdk1.8.0_25\lib\tools.jar;D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.eclipse.swt.win32.win32.x86_3.103.2.v20150203-1351.jar" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.9.2 compiled on July 8 2013" />
+    <property name="TSTAMP" value="1350" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="Service Pack 1" />
+    <property name="eclipse.pdebuild.home" value="/D:/LOA/eclipse-jee-luna-SR2-win32/eclipse/plugins/org.eclipse.pde.build_3.9.0.v20140415-2029/./" />
+    <property name="java.io.tmpdir" value="C:\Users\welcome\AppData\Local\Temp\" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="os.arch" value="x86" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jre1.8.0_45\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+    <property name="user.dir" value="D:\LOA\luna1-j2ee\MerchantGuide" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+    <property name="basedir" value="D:\LOA\luna1-j2ee\MerchantGuide" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="ant.core.lib" value="D:\LOA\eclipse-jee-luna-SR2-win32\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant.jar" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="src.dir" value="D:\LOA\luna1-j2ee\MerchantGuide\src" />
+    <property name="ant.project.invoked-targets" value="main" />
+  </properties>
+  <testcase classname="test.com.loa.tw.TWTest" name="testIronIntergalacticNumerals" time="0.022" />
+  <testcase classname="test.com.loa.tw.TWTest" name="testGoldIntergalacticNumerals" time="0.001" />
+  <testcase classname="test.com.loa.tw.TWTest" name="testIntergalacticNumerals" time="0.001" />
+  <testcase classname="test.com.loa.tw.TWTest" name="testSilverIntergalacticNumerals" time="0.001" />
+  <testcase classname="test.com.loa.tw.TWTest" name="testInputFileIntergalacticNumerals" time="0.008" />
+  <testcase classname="test.com.loa.tw.TWTest" name="testIronExceptionIntergalacticNumerals" time="0.007" />
+  <testcase classname="test.com.loa.tw.TWTest" name="testRomanNumerals" time="0.002" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

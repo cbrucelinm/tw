@@ -1,0 +1,10 @@
+Testsuite: test.com.loa.tw.TWTest
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.166 sec
+
+Testcase: testIronIntergalacticNumerals took 0.02 sec
+Testcase: testGoldIntergalacticNumerals took 0.001 sec
+Testcase: testIntergalacticNumerals took 0.001 sec
+Testcase: testSilverIntergalacticNumerals took 0.001 sec
+Testcase: testInputFileIntergalacticNumerals took 0.007 sec
+Testcase: testIronExceptionIntergalacticNumerals took 0.007 sec
+Testcase: testRomanNumerals took 0.002 sec
